@@ -11,5 +11,4 @@
    #- hostname
    #- firewalld
    #- ntp-config
-   - motd
-   - ping
+   - motd   
