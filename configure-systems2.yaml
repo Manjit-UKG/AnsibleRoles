@@ -10,5 +10,5 @@
   roles:
    #- hostname
    #- firewalld
-    - ntp-config
-   # - motd   
+   # - ntp-config
+    - motd   
